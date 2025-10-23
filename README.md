@@ -1,1 +1,1 @@
-# https://danielpeterek57.github.io/google_search
+# danielpeterek57.github.io/google_search
